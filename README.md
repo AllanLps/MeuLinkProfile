@@ -4,9 +4,13 @@ Olá, tudo certo com você ? ☺
 
 Gostaria de compartilhar esse projeto que desenvolvi para uso pessoal, o meu agregador de links.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6a2ccb7f-f3f0-4233-9323-cbb12c60ed4c/Untitled.png)
+<p align="center">
 
-### Sobre o projeto 💡
+<img src='https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6a2ccb7f-f3f0-4233-9323-cbb12c60ed4c/Untitled.png'/>
+  
+</p>
+
+## 💡 Sobre o projeto 
 
 Eu realizei para usar como um portfólio provisório, a ideia inicial era ter um agregador de links que direcionava para outras redes e até mesmo para o futuro portfólio (que está em construção), então resolvi pegar a ideia do projeto lá nos desafios da @Rocketseat.
 
@@ -14,7 +18,7 @@ O projeto deles é o DevLinks, como eu queria fazer algo totalmente meu, resolvi
 
 Gostei bastante do resultado e foi uma boa forma de trabalhar conceitos já aprendidos ao longo da jornada de estudos. 
 
-### Tecnologias utilizadas 🕹
+## 🕹 Tecnologias utilizadas 
 
 - Figma: Para criação do design;
 - HTML5: Trabalhando com Divs, sections, classes, data-atributts etc;
@@ -24,6 +28,6 @@ Gostei bastante do resultado e foi uma boa forma de trabalhar conceitos já apre
 - Git: Controlar as mudanças no código;
 - Github.
 
-### Informações extras 😀
+## 😀 Informações extras 
 
 Eu priorizei um pouco a qualidade do projeto em versão mobile, mas está bastante responsivo, o link do projeto no Figma, do repositório no Github e da aplicação na Vercel está no comentário do post, espero que tenham gostado e aceito feedbacks. ☺
