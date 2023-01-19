@@ -1,0 +1,15 @@
+.footer {
+    text-align: center;
+    padding: 1rem;
+}
+
+.footer-p{
+    color: var(--color-grey);
+    font-family: var(--fonte);
+    font-weight: 700;
+    font-size: 14px;
+}
+
+.dark-p{
+    color: #ffffff;
+}

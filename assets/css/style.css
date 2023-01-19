@@ -1,0 +1,29 @@
+@import url(profile/profile.css);
+@import url(button/button.css);
+@import url(itens/itens.css);
+@import url(footer/footer.css);
+
+:root {
+    --fonte:'Poppins', sans-serif;
+    --primary-color:#F2F5FA;
+    --color-grey: #515254;
+    --color-dark: #9B9B9B;
+    --cnt-dark: #454A4D;
+
+}
+
+body{
+    background-color: var(--primary-color);
+    transition: 2000ms;
+}
+
+body.dark{
+    background-color: var(--color-dark);
+    transition: 2000ms;
+}
+
+@media screen and (min-width: 1920px) {
+    body{
+        padding: 2rem;
+    }
+}

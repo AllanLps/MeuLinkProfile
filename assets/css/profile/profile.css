@@ -1,0 +1,195 @@
+.container{
+    background-color: #FFFFFF;
+    border-radius: 20px;
+    height: 50vh;
+    margin: 1rem;
+    padding: .5rem;
+}
+
+.ctn-dark{
+    background-color: var(--cnt-dark);
+    transition: 1000ms;
+}
+
+.container-image{
+    width: 100%;
+    height: 45%;
+    border-radius: 22px;
+}
+
+.profile-image{
+    width: 45%;
+    position: relative;
+    bottom: 85px;
+    margin-left: 1rem;
+    margin-bottom: -90px;
+
+}
+
+.container-texts{
+   color: var(--color-grey);
+   display: flex;
+   font-family: var(--fonte);
+   flex-direction: column;
+   margin: 1rem;
+   transition: 1000ms;
+    
+}
+
+.texts-dark{
+    color: #FFFFFF;
+    transition: 1000ms;
+}
+
+.container-description{
+    line-height: 24px;
+}
+
+.description-title{
+    font-weight: 700;
+    font-size: 18px;
+   
+}
+
+.description-p {
+    opacity: 70%;
+}
+
+.contact-p{
+    color: var(--color-grey);
+    font-size: 14px;
+    opacity: 70%;
+    margin-top: 1rem;
+    
+    transition: 1000ms;
+}
+
+.contact-dark {
+    color: #FFFFFF;
+    transition: 1000ms;
+}
+
+@media screen and (min-width: 768px) {
+  .container{
+    height: 60vh;
+    margin: 1rem;
+    padding: 1rem;
+  }
+  
+  .container-image {
+    height: 55%;
+  }
+
+  .profile-image{
+    width: 30%;
+    bottom: 105px;
+  }
+
+  .description-title{
+    font-size: 24px;
+
+    padding: .5rem 0;
+  }
+
+  .description-p {
+    font-size: 18px;
+    opacity: 90%;
+  }
+
+  .contact-p {
+    opacity: 90%;
+    font-size: 16px;
+  }
+    
+}
+
+@media screen and (min-width: 1024px) {
+    .container {
+        height: 92vh;
+    }
+
+    .container-image {
+        height: 55%;
+    }
+    
+    .profile-image{
+        width: 28%;
+        bottom: 133px;
+    }
+
+    .description-title{
+        font-size: 34px;
+    
+        padding: 1rem 0;
+    }
+
+    
+    .description-p {
+        font-size: 24px;
+        opacity: 90%;
+
+        line-height: 28px;
+        
+    }
+
+    .contact-p {
+        opacity: 90%;
+        font-size: 20px;
+
+        line-height: 28px;
+    }
+
+}
+
+@media screen and (min-width: 1440px) {
+    
+    .container {
+        height: 100vh;
+        padding: 1.5rem;
+        margin: 1.5rem;
+    }
+
+    .container-image {
+        height: 55%;
+    }
+    
+    .profile-image{
+        width: 22%;
+        bottom: 133px;
+    }
+
+    .description-title{
+        font-size: 34px;
+    
+        padding: 1rem 0;
+    }
+
+    
+    .description-p {
+        font-size: 24px;
+        opacity: 90%;
+
+        line-height: 28px;
+        
+    }
+
+    .contact-p {
+        opacity: 90%;
+        font-size: 20px;
+
+        line-height: 28px;
+    }
+}
+
+@media screen and (min-width: 1920px) {
+    .container{
+        padding: 2.5rem;
+        margin: 2.5rem;
+    }
+    .profile-image{
+        width: 16%;
+        
+    
+    }
+
+}

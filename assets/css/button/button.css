@@ -1,0 +1,56 @@
+button{
+    
+    align-items: center;
+    border: none;
+    background-color: #FFFFFF;
+    border-radius: 9px;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+    display: flex;
+    font-weight: 700;
+    font-family: var(--fonte);
+    
+    transition: 1000ms;
+
+    margin: auto;
+    padding: .5rem;
+}
+
+#btn-img{
+    margin-left: .2rem;
+}
+
+.btn-style{
+   
+    background-color: var(--cnt-dark);
+    color: #FFFFFF;
+    transition: 1000ms;
+    
+}
+
+@media screen and (min-width: 768px) {
+   button{
+    padding: 1rem;
+   } 
+   span{
+    font-size: 18px;
+   }
+   .btn-img1 {
+    width: 35px;
+   }
+
+      
+}
+  
+@media screen and (min-width: 1024px) {
+    button{
+       padding: 1rem;
+    } 
+    span{
+       font-size: 18px;
+    }
+    .btn-img1 {
+       width: 35px;
+    }
+    
+}
+  
