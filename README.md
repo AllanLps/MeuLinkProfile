@@ -6,7 +6,7 @@ Gostaria de compartilhar esse projeto que desenvolvi para uso pessoal, o meu agr
 
 <p align="center">
 
-<img src='https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6a2ccb7f-f3f0-4233-9323-cbb12c60ed4c/Untitled.png'/>
+<img src='![image](https://user-images.githubusercontent.com/100639279/213537013-6e5272d9-1f06-4023-a8c1-a47005e23ccd.png)'/>
   
 </p>
 
