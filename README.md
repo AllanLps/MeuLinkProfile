@@ -5,9 +5,7 @@ Olá, tudo certo com você ? ☺
 Gostaria de compartilhar esse projeto que desenvolvi para uso pessoal, o meu agregador de links.
 
 <p align="center">
-
-<img src='![image](https://user-images.githubusercontent.com/100639279/213537013-6e5272d9-1f06-4023-a8c1-a47005e23ccd.png)'/>
-  
+  <img src="https://user-images.githubusercontent.com/100639279/213537272-c872de44-12bb-4523-8ce5-01f1575d85ef.png"/>
 </p>
 
 ## 💡 Sobre o projeto 
