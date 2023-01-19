@@ -28,4 +28,7 @@ Gostei bastante do resultado e foi uma boa forma de trabalhar conceitos já apre
 
 ## 😀 Informações extras 
 
-Eu priorizei um pouco a qualidade do projeto em versão mobile, mas está bastante responsivo, o link do projeto no Figma, do repositório no Github e da aplicação na Vercel está no comentário do post, espero que tenham gostado e aceito feedbacks. ☺
+Eu priorizei um pouco a qualidade do projeto em versão mobile, mas está bastante responsivo, abaixo segue o link do projeto no figma e o link do projeto públicado;
+
+* Link do Figma: https://www.figma.com/file/kvlaleGJsehPVmjrbKx7fO/Linktree?t=qUGxLHrDVbquC3Sn-6
+* Projeto: https://meu-link-profile.vercel.app/
