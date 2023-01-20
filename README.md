@@ -31,4 +31,4 @@ Gostei bastante do resultado e foi uma boa forma de trabalhar conceitos já apre
 Eu priorizei um pouco a qualidade do projeto em versão mobile, mas está bastante responsivo, abaixo segue o link do projeto no figma e o link do projeto públicado;
 
 * Link do Figma: https://www.figma.com/file/kvlaleGJsehPVmjrbKx7fO/Linktree?t=qUGxLHrDVbquC3Sn-6
-* Projeto: https://meu-link-profile.vercel.app/
+* Projeto: www.allanlps.com.br
